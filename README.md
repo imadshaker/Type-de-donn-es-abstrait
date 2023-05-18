@@ -3,7 +3,7 @@
 # Description du project
 Le projet est un type de données qui représente un ensemble d’entier (int).  
 • Contenant homogène à taille variable.  
-    * Permet l’insertion et la suppression d’élément.  
+    Permet l’insertion et la suppression d’élément.  
 • Chaque élément est unique.  
     o Il n’y a pas de doublons.  
 • Peut être consulté.  
