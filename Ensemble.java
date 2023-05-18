@@ -1,7 +1,6 @@
 package inf2120.tp3;
 /**
- * @author Imad Bouarfa
- * Code permanent: BOUI24039303
+ * @author Imad Bouarfa Shaker
  * Courriel: bouarfa.imad@courrier.uqam.ca
  * Cours: INF2120-10
  * @version 2023-04-30
