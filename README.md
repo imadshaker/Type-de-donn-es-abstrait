@@ -1,6 +1,6 @@
 # Type-de-données-abstrait
 
-# Description du project
+# Description du projet
 Le projet est un type de données qui représente un ensemble d’entier (int).  
 • Contenant homogène à taille variable.  
 &nbsp; &nbsp;    o Permet l’insertion et la suppression d’élément.  
